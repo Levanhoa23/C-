@@ -1,0 +1,7 @@
+D:\C#\BAI_TAP\bin\Debug\BAI_TAP.exe.config
+D:\C#\BAI_TAP\bin\Debug\BAI_TAP.exe
+D:\C#\BAI_TAP\bin\Debug\BAI_TAP.pdb
+D:\C#\BAI_TAP\obj\Debug\BAI_TAP.csproj.AssemblyReference.cache
+D:\C#\BAI_TAP\obj\Debug\BAI_TAP.csproj.CoreCompileInputs.cache
+D:\C#\BAI_TAP\obj\Debug\BAI_TAP.exe
+D:\C#\BAI_TAP\obj\Debug\BAI_TAP.pdb
